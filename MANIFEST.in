@@ -1,5 +1,4 @@
 include LICENSE
-include README.rst
 include README.md
 include VERSION
 recursive-include adminlte3 *.py
