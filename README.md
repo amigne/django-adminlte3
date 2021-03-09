@@ -1,5 +1,7 @@
 # django-adminlte3
-<!--[![pypi_badge](https://badge.fury.io/py/django-adminlte3.png)](https://pypi.python.org/pypi/django-adminlte3)-->
+[![pypi_badge](https://badge.fury.io/py/django-adminlte3-amigne.png)](https://pypi.org/project/django-adminlte3-amigne/)
+[![licence badge](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/amigne/django-adminlte3/master/LICENSE)
+
 django-adminlte3 provides the functionality of the AdminLTE3 theme
 to developers in the form of standard base templates. Optional styling for
 Django's built-in admin interface is also provided.
@@ -35,6 +37,10 @@ Install as per the above installation instructions. The django admin UI should t
 <!--### Documentation
 Can be found at: http://django-adminlte3.readthedocs.io-->
 
+## Versions
+* v0.1.99 (March 9th, 2021)
+  * Similar to release v0.1.7-alpha of `d-demirci/django-adminlte3`
+    
 ## Credits
 This project a based heavily on work by the following:
 * d-demirci for [d-demirci/django-adminlte3]
